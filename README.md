@@ -2,7 +2,7 @@
 
 Download the `guac-install.sh` script from this repo:
 ```
-wget https://raw.githubusercontent.com/LochStudios/guacamole-install-rhel-7/master/guac-install.sh
+wget https://raw.githubusercontent.com/lochmurdoch/guacamole-install-rhel-7/master/guac-install.sh
 ```
 
 Make the `guac-install.sh` script executable:
